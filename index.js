@@ -5,3 +5,11 @@ function destructivelyAppendKitten(name){
   window.kittens.push(name)
   // return kittens
 }
+
+function destructivelyPrependKitten(name){
+  window.kittens.unshift(name)
+}
+
+function destructivelyRemoveFirstKitten(){
+  
+}
