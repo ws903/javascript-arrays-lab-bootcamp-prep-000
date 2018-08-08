@@ -27,5 +27,5 @@ function destructivelyRemoveLastKitten(){
 }
 
 function removeLastKitten(){
-  return kittens.slice(0, kittens.length())
+  return kittens.slice(0, kittens.length)
 }
