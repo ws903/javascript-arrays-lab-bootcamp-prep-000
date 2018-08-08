@@ -11,5 +11,9 @@ function destructivelyPrependKitten(name){
 }
 
 function destructivelyRemoveFirstKitten(){
+ window.kittens.shift() 
+}
+
+function appendKitten(name){
   
 }
