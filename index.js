@@ -22,3 +22,6 @@ function prependKitten(name){
   return [name].concat(kittens)
 }
 
+function destructivelyRemoveLastKitten(){
+  
+}
