@@ -2,6 +2,6 @@
 // var kittens = ['Milo', 'Otis', 'Garfield']
 
 function descructivelyAppendKitten(name){
-  kittens.push(name)
+  window.kittens.push(name)
   // return kittens
 }
