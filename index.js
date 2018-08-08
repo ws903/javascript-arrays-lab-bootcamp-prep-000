@@ -23,5 +23,9 @@ function prependKitten(name){
 }
 
 function destructivelyRemoveLastKitten(){
-  
+  window.kittens.pop()
+}
+
+function removeLastKitten(){
+  return kittens
 }
