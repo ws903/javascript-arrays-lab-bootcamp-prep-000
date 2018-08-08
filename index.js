@@ -1,2 +1,3 @@
 // Add your functions and code here
-kittens = ['Milo', 'Otis', 'Garfield']
+var kittens = ['Milo', 'Otis', 'Garfield']
+
